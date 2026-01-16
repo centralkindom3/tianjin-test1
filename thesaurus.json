@@ -1,0 +1,227 @@
+{
+  "文档": {
+    "synonyms": [
+      "文件",
+      "文稿",
+      "文档",
+      "资料",
+      "文本"
+    ],
+    "knowledge": ""
+  },
+  "报告": {
+    "synonyms": [
+      "汇报",
+      "总结",
+      "报告",
+      "简报"
+    ],
+    "knowledge": ""
+  },
+  "计划": {
+    "synonyms": [
+      "规划",
+      "方案",
+      "计划",
+      "安排"
+    ],
+    "knowledge": ""
+  },
+  "图片": {
+    "synonyms": [
+      "照片",
+      "图像",
+      "图片",
+      "相片"
+    ],
+    "knowledge": ""
+  },
+  "视频": {
+    "synonyms": [
+      "影片",
+      "视频",
+      "影像"
+    ],
+    "knowledge": ""
+  },
+  "音频": {
+    "synonyms": [
+      "声音",
+      "音频",
+      "音效"
+    ],
+    "knowledge": ""
+  },
+  "数据": {
+    "synonyms": [
+      "信息",
+      "数据",
+      "资料"
+    ],
+    "knowledge": ""
+  },
+  "表格": {
+    "synonyms": [
+      "表单",
+      "表格",
+      "数据表"
+    ],
+    "knowledge": ""
+  },
+  "演示": {
+    "synonyms": [
+      "展示",
+      "演示",
+      "宣讲"
+    ],
+    "knowledge": ""
+  },
+  "会议": {
+    "synonyms": [
+      "会面",
+      "会议",
+      "会商"
+    ],
+    "knowledge": ""
+  },
+  "测试": {
+    "synonyms": [
+      "测验",
+      "Test"
+    ],
+    "knowledge": ""
+  },
+  "测验": {
+    "synonyms": [
+      "测试",
+      "Test"
+    ],
+    "knowledge": ""
+  },
+  "电脑": {
+    "synonyms": [
+      "计算机",
+      "PC",
+      "笔记本",
+      "台式机"
+    ],
+    "knowledge": ""
+  },
+  "计算机": {
+    "synonyms": [
+      "电脑",
+      "PC",
+      "笔记本",
+      "台式机"
+    ],
+    "knowledge": ""
+  },
+  "PC": {
+    "synonyms": [
+      "电脑",
+      "计算机",
+      "笔记本",
+      "台式机"
+    ],
+    "knowledge": ""
+  },
+  "笔记本": {
+    "synonyms": [
+      "电脑",
+      "计算机",
+      "PC",
+      "台式机"
+    ],
+    "knowledge": ""
+  },
+  "台式机": {
+    "synonyms": [
+      "电脑",
+      "计算机",
+      "PC",
+      "笔记本"
+    ],
+    "knowledge": ""
+  },
+  "手机": {
+    "synonyms": [
+      "移动电话",
+      "智能机"
+    ],
+    "knowledge": ""
+  },
+  "移动电话": {
+    "synonyms": [
+      "手机",
+      "智能机"
+    ],
+    "knowledge": ""
+  },
+  "智能机": {
+    "synonyms": [
+      "手机",
+      "移动电话"
+    ],
+    "knowledge": ""
+  },
+  "Test": {
+    "synonyms": [
+      "测试",
+      "测验"
+    ],
+    "knowledge": ""
+  },
+  "特殊": {
+    "synonyms": [
+      "特别",
+      "sp",
+      "独特"
+    ],
+    "knowledge": "特殊的测试内容"
+  },
+  "特别": {
+    "synonyms": [
+      "特殊",
+      "sp",
+      "独特"
+    ],
+    "knowledge": "特殊的测试内容"
+  },
+  "sp": {
+    "synonyms": [
+      "特殊",
+      "特别",
+      "独特"
+    ],
+    "knowledge": "特殊的测试内容"
+  },
+  "独特": {
+    "synonyms": [
+      "特殊",
+      "特别",
+      "sp"
+    ],
+    "knowledge": "特殊的测试内容"
+  },
+  "today": {
+    "synonyms": [
+      "dday",
+      "今日"
+    ],
+    "knowledge": "今天的相关知识内容测试"
+  },
+  "dday": {
+    "synonyms": [
+      "today",
+      "今日"
+    ],
+    "knowledge": "今天的相关知识内容测试"
+  },
+  "今日": {
+    "synonyms": [
+      "today",
+      "dday"
+    ],
+    "knowledge": "今天的相关知识内容测试"
+  }
+}
